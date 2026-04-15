@@ -1,3 +1,4 @@
+<!-- Basic logging feature -->
 <?php
 session_start();
 session_unset();

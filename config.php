@@ -1,8 +1,9 @@
 <?php
-$host = '127.0.0.1';
-$db   = 'gallery_db';
-$user = 'root'; // change later
-$pass = '';     // change this too
+// Database connection settings
+$host = 'sql211.infinityfree.com';
+$db   = 'if0_41672616_gallery_db';
+$user = 'if0_41672616';
+$pass = '9Nl1ENCJoMHSnD';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
